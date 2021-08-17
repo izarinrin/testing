@@ -7,7 +7,7 @@ package prctise;
 
 /**
  *
- * @author PerlaMay
+ * @author izarinrin
  */
 public class Prctise {
 
